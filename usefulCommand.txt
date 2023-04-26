@@ -1,8 +1,11 @@
 Create react app: 
 npx create-react-app ./
+npx create-react-app my-app
 
-running server:
+running server (one of below):
+npm satart
 npm run dev
+nodemon srever.js
 
 running client:
 npm start
@@ -16,7 +19,6 @@ https://www.youtube.com/watch?v=w3vs4a03y3I&t=323s
 object to json data conversion after query result(node.js)
 https://www.youtube.com/watch?v=sSeKGS2aKrk
 
-this cis just text
 
 ##########################################
 ////////////////  REACT  /////////////////
@@ -24,6 +26,13 @@ this cis just text
 
 Using API in React (Japanese article)
 https://lorem-co-ltd.com/react-fetch-api/
+
+What is useState:
+https://legacy.reactjs.org/docs/hooks-state.html   // React website
+https://reffect.co.jp/react/react-hook-usestate-understand  // Japanese
+
+Concept of ReactDom:
+https://watablogtravel.com/react-virtual-dom/
 
 
 

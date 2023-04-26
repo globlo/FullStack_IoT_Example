@@ -28,7 +28,9 @@ const app = express();
 
 app.get('/getMoisture', function (req, res) {
     
-  res.json({ "humidity": str })
+  res.json({ 
+		"humidity": str
+	})
 });
 
 
